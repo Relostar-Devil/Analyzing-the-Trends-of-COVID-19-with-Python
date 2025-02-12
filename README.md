@@ -1,5 +1,3 @@
-# Analyzing-the-Trends-of-COVID-19-with-Python
-
 ## Problem Statement:
 
 Given data about COVID-19 patients, write code to visualize the impact and
